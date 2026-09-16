@@ -1,0 +1,7 @@
+{
+  "name": "Git Uploader",
+  "description": "Upload whole folders and nested contents to GitHub repositories seamlessly with automatic folder creation, commit history, and repo file management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
